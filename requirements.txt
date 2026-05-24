@@ -9,3 +9,5 @@ lyricsgenius
 customtkinter
 yt-dlp
 wikipedia
+musicbrainzngs
+metadata
