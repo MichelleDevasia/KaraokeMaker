@@ -7,3 +7,4 @@ audioread
 ffmpeg-python
 lyricsgenius
 customtkinter
+yt-dlp
